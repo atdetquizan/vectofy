@@ -1,0 +1,14 @@
+{
+  "name": "vectofy-icons",
+  "version": "1.0.0",
+  "description": "libreria de iconos",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "node ./src/index.mjs"
+  },
+  "author": "atdetquizan",
+  "license": "ISC",
+  "devDependencies": {
+    "svgtofont": "^6.0.0"
+  }
+}

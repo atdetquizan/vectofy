@@ -1,0 +1,6 @@
+# Ignorar el contenido de la carpeta public pero no la carpeta misma
+/public/*
+!/public/.gitkeep
+
+# Ignorar node_modules completamente
+/node_modules
